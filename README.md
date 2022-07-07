@@ -4,5 +4,7 @@ The purpose of this project was to make us discover assembly. The goal was to re
 
 # Usage
 
-``` make ```
+``` zsh
+make
+```
 - This project can't be directly tested ! But you can use the ASM functions in other projects.
